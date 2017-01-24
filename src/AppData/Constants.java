@@ -37,6 +37,7 @@ public final class Constants {
             SPLIT_PANE_LEFT_MIN_SIZE = new Dimension(300, 480),
             SPLIT_PANE_LEFT_MAX_SIZE = new Dimension(600, 480)
     ;
+    //endregion
 
     //region Constant integers
     public static final int
