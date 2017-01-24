@@ -32,11 +32,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="KSPMMDriver.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="KSPMMDriver.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Main/KSPMMDriver.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-545">
-                  <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+                <state relative-caret-position="167">
+                  <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
@@ -100,10 +100,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/AppData/Constants.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="600">
+                <state relative-caret-position="-1135">
                   <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
                   <folding />
                 </state>
@@ -265,7 +265,6 @@
         <option value="$PROJECT_DIR$/src/Models/TableModel.java" />
         <option value="$PROJECT_DIR$/src/Utils/XMLUtilities/XMLWriter.java" />
         <option value="$PROJECT_DIR$/src/Models/KSPMMModel.java" />
-        <option value="$PROJECT_DIR$/src/Main/KSPMMDriver.java" />
         <option value="$PROJECT_DIR$/src/Utils/EditingUtils/CopyAction.java" />
         <option value="$PROJECT_DIR$/src/Utils/EditingUtils/CellTransferable.java" />
         <option value="$PROJECT_DIR$/src/View/MainView/Subviews/MenuBar/ColoredMenuBar.java" />
@@ -277,6 +276,7 @@
         <option value="$PROJECT_DIR$/src/AppData/AppData.java" />
         <option value="$PROJECT_DIR$/src/Utils/FileUtilities/FileManager.java" />
         <option value="$PROJECT_DIR$/src/AppData/Constants.java" />
+        <option value="$PROJECT_DIR$/src/Main/KSPMMDriver.java" />
       </list>
     </option>
   </component>
@@ -1546,14 +1546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/KSPMMDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Models/KSPMMTableModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1638,8 +1630,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppData/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="-1135">
           <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/KSPMMDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
           <folding />
         </state>
       </provider>

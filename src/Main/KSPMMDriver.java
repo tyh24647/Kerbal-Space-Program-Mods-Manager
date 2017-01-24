@@ -51,6 +51,7 @@ public class KSPMMDriver {
             try {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
             } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {
+                Log.e(ex.getMessage());
                 ex.printStackTrace();
             }
 
