@@ -127,7 +127,10 @@ public class KSPMMTableModel extends AbstractTableModel implements TableModel {
     public void setTableData(Object[][] data) {
         if (data != null) {
             this.data = data;
+            return;
         }
+
+        Log.e("Unable to set table data -- the specified data is null");
     }
 
     public void addRow(String modName, String installationDir, String dateAdded) {
