@@ -108,7 +108,7 @@ public final class Constants {
             ABOUT = "About",
             CONTACT = "Contact us",
             WINDOW_TITLE = "Kerbal Space Program Mods Manager",
-            COPYWRITE_MSG = "© Tyler Hostager, 2016"
+            COPYRIGHT_MSG = "© Tyler Hostager, 2016"
     ;
 
     //region Default test data for the JTable

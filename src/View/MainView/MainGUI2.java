@@ -192,7 +192,7 @@ public class MainGUI2 extends JFrame implements ActionListener, KeyListener, Mou
         };
 
         southPanel.setPreferredSize(BOTTOM_PANE_PREFERRED_SIZE);
-        bottomLabel = new JLabel(COPYWRITE_MSG) {
+        bottomLabel = new JLabel(COPYRIGHT_MSG) {
             @Override
             public void setOpaque(boolean isOpaque) {
                 super.setOpaque(true);
