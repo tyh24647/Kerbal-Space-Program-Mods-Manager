@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Look and Feel">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../HW20 - MVC/src/Resources/Look and Feel" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../HW20 - MVC/src/Resources/Look and Feel" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../HW20 - MVC/src/Resources/Look and Feel" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../HW20 - MVC/src/Resources/Look and Feel" recursive="false" type="SOURCES" />
+  </library>
+</component>

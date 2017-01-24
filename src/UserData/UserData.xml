@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preferences>
+    <user>
+        <test3 id="testID">
+            <test1>testing testing ya ya ya</test1>
+            <test2>this is another test</test2>
+            <test3>third and final test</test3>
+        </test3>
+        <element>another one</element>
+    </user>
+    <defaults>
+        <os>MacOS</os>
+        <d1 id="defaultPref1"/>
+    </defaults>
+</preferences>

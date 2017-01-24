@@ -1,0 +1,31 @@
+#################################################
+#												#
+#	gitignore file for the KSPMM application	#
+#	- Tyler Hostager, 12/24/17					#
+#												#
+#################################################
+
+
+# class files
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile android tools
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Log files created in the mod manager - user specific and don't need to be there
+*.log
+
+# End gitignore
+
+
